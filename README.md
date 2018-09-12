@@ -37,27 +37,27 @@
 ```   
    Average size of apps is same for all category. But few gaming apps have the largest size in apps store.
 ```
-10.Do paid apps support more devices? 
+10. Do paid apps support more devices? 
 ```   
    No. Both, free and paid apps support almost the same number of devices. In case of 'Educational' apps, free apps support less devices. 
 ```   
-11.Does a better rating count leads to a better rating? 
+11. Does a better rating count leads to a better rating? 
 ```   
    Yes. Maximum apps having rating count more than 1000 have a user rating of 4.5.
 ```   
-12.Do expensive apps have a higher user rating? 
+12. Do expensive apps have a higher user rating? 
 ```   
    Yes. Apps having price more than 15$ have usually good rating.
 ```
-13.What is the relative proportion of free apps on app store? 
+13. What is the relative proportion of free apps on app store? 
 ```   
    56.35% apps on apps store are free
 ```
-14.Which apps are exceptionally priced in app store? 
+14. Which apps are exceptionally priced in app store? 
 ```   
    The most exceptionally priced apps are of education.
 ```
-15.Paid apps of which genre start from a higher price? 
+15. Paid apps of which genre start from a higher price? 
 ```   
    Educational apps
 ```
