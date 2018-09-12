@@ -1,9 +1,10 @@
 # Visual Analysis of iOS App-Store Data
 ## Visual Analysis of apple app store data to get the useful insights.
 
-1. Which genre has the highest number of apps? 
+1. Which genre has the highest number of apps?
+'''
    Games
-   
+'''   
 2. What is the usual price range of apps? 
    (1-30)$ 
 
