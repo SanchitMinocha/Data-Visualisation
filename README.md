@@ -1,2 +1,2 @@
 # Data-Visualisation
-Visual Analysis of data to get the useful insights.
+Visual Analysis of apple app store data to get the useful insights.
