@@ -2,12 +2,13 @@
 ## Visual Analysis of apple app store data to get the useful insights.
 
 1. Which genre has the highest number of apps?
-'''
+```
    Games
-'''   
+```   
 2. What is the usual price range of apps? 
+```   
    (1-30)$ 
-
+```
 3. How does price vary with the number of apps? 
    Number of apps dereases exponentially with the increase in price. 
 
